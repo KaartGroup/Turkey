@@ -29,4 +29,4 @@ In addition to the rules that apply to everyone in the community, here are the g
 ## Additional Information
 For general concerns about Kaart, contact [Aaron Young](http://www.openstreetmap.org/user/vespax).
  
-For local concerns, contact our local community project lead [Erwin Olario](https://www.openstreetmap.org/user/GOwin). 
+For local concerns, contact our local community project lead [Jacob Kaplan](https://www.openstreetmap.org/user/CoolGuyJake). 

@@ -13,7 +13,7 @@ Improvements that are intended to enhance the data include the following:
 * Other one-off fixes
 
 ### Guidelines
-- The contributors will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines) guidelines, as appropriate.
+- The contributors will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines), as appropriate.
 
 ## Tasking Manager
 - [  - Missing Roads](https://tasks.hotosm.org/project//dashboard)

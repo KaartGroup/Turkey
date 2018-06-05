@@ -1,7 +1,7 @@
 ## Tasking Manager
 The [Kaart Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team) in conjunction with community mappers will work to digitize missing geometry to improve the overall road network in PROVINCE.
 
-Link to tasking manager: [ PROVINCE - Missing Roads](https://tasks.hotosm.org/project/) 
+Link to tasking manager: [ PROVINCE - Missing Roads](https://tasks.hotosm.org/project/)
 
 Preferred Imagery: Digital Globe Premium
 

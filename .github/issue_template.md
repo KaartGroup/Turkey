@@ -1,5 +1,5 @@
 ## Description
-This task provides information and tools to improve map data in *. See the [README.md](https://github.com/KaartGroup/Turkey) for more information regarding the project.
+This task provides information and tools to improve map data in . See the [README.md](https://github.com/KaartGroup/Turkey) for more information regarding the project.
 
 ## Tasking Manager
 - [  - Missing Roads](https://tasks.hotosm.org/project/)

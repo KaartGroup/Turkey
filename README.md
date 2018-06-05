@@ -4,7 +4,7 @@ This repository tracks the various mapping projects throughout Turkey that are m
 ## Projects
 
 ### [Road Network Improvement Project](https://github.com/KaartGroup/Turkey/projects/1 "Project 1")
-Using GIS analysis tools, we identified areas where there are believed to be missing roads. The purpose of this project is to digitize missing roads in Turkey and ensure a high quality road network.
+Using GIS analysis tools, we identified areas where we believe there are missing roads. The purpose of this project is to digitize missing roads in those areas and ensure a high quality road network.
 
 We will additionally get in touch with the [talk-tr](https://lists.openstreetmap.org/listinfo/talk-tr) mailing list to ask for suggestions and feedback.
 

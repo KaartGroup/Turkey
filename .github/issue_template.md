@@ -1,9 +1,10 @@
 ## Description
-This task outlines work to improve map data in Turkey based on user feedback, and algorithmic estimations.  
+This task provides information and tools to improve map data in *. See the [README.md](https://github.com/KaartGroup/Turkey) for more information regarding the project.
 
-First we'll contact the [talk-tr](https://lists.openstreetmap.org/listinfo/talk-tr) mailing list, for feedback and/or suggestions.  Then we plan to correct the data where we can identify the missing roads don't exist, using sources listed below.
+## Tasking Manager
+- [  - Missing Roads](https://tasks.hotosm.org/project/)
 
-Improvements that are intended to enhance the data include the following:
+## Areas of Focus
 * Adding missing roads
 * Improving road attributes (names, lanes, restrictions, etc.)
 * Correcting road connectivity issues
@@ -13,21 +14,17 @@ Improvements that are intended to enhance the data include the following:
 * Other one-off fixes
 
 ### Guidelines
-- The contributors will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines), as appropriate.
+Along with the Kaart [Data Team Guidelines](https://github.com/KaartGroup/Turkey/blob/master/KAART.md#data-team-guidelines
+ "Guidelines"), contributors are expected to adhere to the following standards and practices:
 
-## Tasking Manager
-- [  - Missing Roads](https://tasks.hotosm.org/project//dashboard)
+ - [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways "OSM")
+ - [Turkey](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey "TR")
 
-### Data Sources
-- Public imagery (Bing, MapBox, Digital Globe, ESRI World View
-- Public traces (OSM GPS traces, Strava)
-- Street-level imagery (Mapillary, OpenStreetCam, Pic4Carto)
-- GIS imagery analysis by Kaart
-
-## Validation and Error Detection
-Contributors will visually check for errors using [JOSM validation warnings](http://wiki.openstreetmap.org/wiki/JOSM/Validator) prior to committing the changeset.
-
-Additionally, contributors will review their work following the task guidelines including the [LearnOSM](http://learnosm.org/en/coordination/review/) and [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) validation standards.
+### Methods & Tools
+#### Error Detection
+The [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) and [LearnOSM](http://learnosm.org/en/coordination/review/) validation standards as well as the task guidelines will need to be used as a guide to review work for any errors. 
+#### Validation
+Errors and warnings will be reviewed by the contributor using the [JOSM validation tool](http://wiki.openstreetmap.org/wiki/JOSM/Validator). The contributor will run this validation and fix any errors or warnings prior to any changes being uploaded.
 
 ### Contributors
 The project is open to OpenStreetMap contributors of any experience level.

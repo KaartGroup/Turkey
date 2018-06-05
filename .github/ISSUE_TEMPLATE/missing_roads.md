@@ -13,7 +13,7 @@ Improvements that are intended to enhance the data include the following:
 * Other one-off fixes
 
 ### Guidelines
-- The contributors will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines), as appropriate.
+- The team  will follow [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Highways), regional, and [national](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey) practices, along with Kaart Data Team [Guidelines](https://wiki.openstreetmap.org/wiki/Kaart#Data_Team_Guidelines), as appropriate.
 
 ## Tasking Manager
 - [  - Missing Roads](https://tasks.hotosm.org/project//dashboard)
@@ -25,9 +25,9 @@ Improvements that are intended to enhance the data include the following:
 - GIS imagery analysis by Kaart
 
 ## Validation and Error Detection
-Contributors will visually check for errors using [JOSM validation warnings](http://wiki.openstreetmap.org/wiki/JOSM/Validator) prior to committing the changeset.
+The team will visually check for errors using [JOSM validation warnings](http://wiki.openstreetmap.org/wiki/JOSM/Validator) prior to committing the changeset.
 
-Additionally, contributors will review their work following the task guidelines including the [LearnOSM](http://learnosm.org/en/coordination/review/) and [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) validation standards.
+Additionally, the team will review its work in accordance with validation guidelines such as [LearnOSM](http://learnosm.org/en/coordination/review/) and [OSM Wiki](http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) validation standards.
 
 ### Contributors
 The project is open to OpenStreetMap contributors of any experience level.

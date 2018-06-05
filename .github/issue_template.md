@@ -4,7 +4,7 @@ The [Kaart Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team)
 Link to tasking manager: [ PROVINCE - Missing Roads](https://tasks.hotosm.org/project/)
 
 ### Scope of Editing
-The bulk of the work deals with creating missing geometry, however, we are also concerned with ensuring that the features have the correct attributes and are the correct classification. Additionally, the data should be as free of errors as possible; namely having appropriate connectivity and alignment. Any other issues encountered by the editor should be resolved using the standardized guidelines outlined by the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Highways "OSM"), [WikiProject Turkey](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey "TR") and the Kaart [Data Team Guidelines](https://github.com/KaartGroup/Turkey/blob/master/KAART.md#data-team-guidelines
+The bulk of the work deals with creating missing geometry, however, we are also concerned with ensuring that the features have the correct attributes and are the correct classification. Additionally, the data should be as free of errors as possible - namely having appropriate connectivity and alignment. Any other issues encountered by the editor should be resolved using the standardized guidelines outlined by the [OSM Wiki](http://wiki.openstreetmap.org/wiki/Highways "OSM"), [WikiProject Turkey](https://wiki.openstreetmap.org/wiki/WikiProject_Turkey "TR") and the Kaart [Data Team Guidelines](https://github.com/KaartGroup/Turkey/blob/master/KAART.md#data-team-guidelines
  "Guidelines").
 
 ### Validation

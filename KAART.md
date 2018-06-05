@@ -3,7 +3,7 @@ Kaart is a small team of active mappers contributing to foundational data in Ope
 
 >make awesome Turkey data with #kaart
 
-Our data improvement [projects](https://github.com/KaartGroup/Turkey/projects) in the Turkey being worked on by Kaart [Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team), or with collaborators.
+Our data improvement [projects](https://github.com/KaartGroup/Turkey/projects) in Turkey being worked on by Kaart [Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team), or with collaborators.
 
 ### Data improvement projects elsewhere
 Kaart has traveled to and provided data improvements in the following countries and metropolitan areas:

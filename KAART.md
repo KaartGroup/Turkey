@@ -1,11 +1,7 @@
 ## Kaart Group
 Kaart is a small team of active mappers contributing to foundational data in OpenStreetMap, primarily in road networks.  We are not into making bulk imports, or automated edits into OSM anywhere. 
 
->make awesome Turkey data with #kaart
-
-Our data improvement [projects](https://github.com/KaartGroup/Turkey/projects) in Turkey being worked on by Kaart [Data Team](https://wiki.openstreetmap.org/wiki/Kaart#Kaart_Data_Team), or with collaborators.
-
-### Data improvement projects elsewhere
+### Data Improvement Project Locations
 Kaart has traveled to and provided data improvements in the following countries and metropolitan areas:
 
 - Africa - Comores, Mauritius, Reunion

@@ -4,7 +4,7 @@ This task provides information and tools to improve map data in *. See the [READ
 ## Tasking Manager
 - [  - Missing Roads](https://tasks.hotosm.org/project/)
 
-## Areas of Focus
+### Areas of Focus
 * Adding missing roads
 * Improving road attributes (names, lanes, restrictions, etc.)
 * Correcting road connectivity issues

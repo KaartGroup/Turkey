@@ -10,7 +10,7 @@ The bulk of the work deals with creating missing geometry, however, we are also 
  "Guidelines").
 
 ### Validation
-The JOSM validation tool is used to [validate](https://wiki.openstreetmap.org/wiki/JOSM/Validator#Validations "Validators") errors and warnings that may have been created during the editing process. The contributor will run this validation and fix any errors or warnings prior to any changes being uploaded.
+The JOSM validation tool is used to [validate errors and warnings](https://wiki.openstreetmap.org/wiki/JOSM/Validator#Validations "Validators") that may have been created during the editing process. The contributor will run this validation and fix any errors or warnings prior to any changes being uploaded.
 
 ### Contributors
 The project is open to OpenStreetMap contributors of any experience level.
